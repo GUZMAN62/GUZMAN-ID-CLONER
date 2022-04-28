@@ -1,7 +1,7 @@
 # GUZMAN-ID-CLONER
 
 
-(INSTALLATION)
+# INSTALLATION
 
 ➤ apt install python2
 
@@ -27,4 +27,4 @@
 
 ➤ python CLONER.py
 
-Thanks u for using my tool ʘ‿ʘ
+# Thanks u for using my tool ʘ‿ʘ
